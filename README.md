@@ -1,1 +1,0 @@
-https://github.com/etsibareva/ono-tebe-nado-ad.git
