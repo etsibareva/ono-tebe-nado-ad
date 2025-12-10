@@ -130,6 +130,7 @@
 }
 
 /* Lots */
+
 .lots {
   margin: 180px 24px 0;
 }
@@ -253,7 +254,7 @@
   text-transform: uppercase;
 }
 
-.about__text {
+.about__text p {
   font-size: 20px;
   line-height: 1.2;
 }
@@ -273,6 +274,10 @@
   grid-template-columns: 1fr 1fr 1fr;
   padding: 0 50px 82px;
   background-color: #fff;
+}
+
+.footer__address {
+  width: 240px;
 }
 
 .footer__menu-list {
